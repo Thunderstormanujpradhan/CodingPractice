@@ -1,0 +1,2 @@
+
+    scanf("%d",&s.roll);
